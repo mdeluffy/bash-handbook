@@ -1,5 +1,7 @@
 # bash-handbook
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/denysdovhan/bash-handbook.svg)](https://greenkeeper.io/)
+
 [![CC 4.0][cc-image]][cc-url]
 [![NPM version][npm-image]][npm-url]
 [![Gitter][gitter-image]][gitter-url]
